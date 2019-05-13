@@ -1,7 +1,6 @@
 {
   "name": "les22",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandomRobin/FEP22.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RandomRobin/FEP22/issues"
+  },
+  "homepage": "https://github.com/RandomRobin/FEP22#readme",
+  "description": ""
 }
