@@ -1,7 +1,7 @@
 const Orientation = 'Orientation';
 
 class Beeldscherm {
-    //fields
+    //fields test
     width:number;
     height:number;
     
